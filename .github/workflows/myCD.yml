@@ -5,7 +5,7 @@ on:
       - v*
       
 jobs:
-  release:
+  releases:
     name: Release on Github
     runs-on: ubuntu-latest
     steps:
